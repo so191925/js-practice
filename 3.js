@@ -7,5 +7,5 @@ console.log(typeof(arr));  // 4. object
 2)  string
 3)  number
 4)  object
-
+//undefined, string, number 는 모두 기본 자료형(primitive type)
 
