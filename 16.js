@@ -7,7 +7,7 @@
 // 입력 : 거꾸로
 // 출력 : 로꾸거
 
-let text = prompt('거꾸로 나올 문장입니다.')
+const text = prompt('거꾸로 나올 문장입니다.')
 const reverse = text.split('').reverse().join('');
 /*
 * split() 메서드는 문자열을 배열로 만들어 반환하고,
